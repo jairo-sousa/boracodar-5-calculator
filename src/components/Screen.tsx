@@ -7,7 +7,7 @@ export function Screen() {
 				1 + 1
 			</Text>
 			<Flex justify="space-between">
-				<Img src="https://raw.githubusercontent.com/jairo-sousa/boracodar-5-calculator/main/.github/equals.svg" />
+				<Img src="https://raw.githubusercontent.com/jairo-sousa/boracodar-5-calculator/main/.github/equal.svg" />
 				<Text fontSize="3.6rem">2</Text>
 			</Flex>
 		</Flex>
